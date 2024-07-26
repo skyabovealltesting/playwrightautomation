@@ -1,0 +1,63 @@
+{
+    "create":{
+        "revenueStreamSelect":"HVAC: Large Turnkey"
+
+    },
+    "office":{
+        "officeName":"Charlotte",
+        "officeID":30,
+        "jobName":101312024183054413
+
+    },
+    "partsCenter":{
+        "partCenter":"Charlotte Parts Supply"
+    },
+    "container":{
+        "getContainerID":""
+    },
+    "labor":{
+        "laborTypeValue":"CTR BAS Technician 3 Graphic",
+        "descriptionValue":"addPLCLabor"
+    },
+    "ntm":{
+        "amountValue":"250",
+        "partNumberValue":"123",
+        "vendorValue":"Trane AMS",
+        "descriptionValue":"addPLCNTM"
+
+    },
+    "traneParts":{
+        "amountValue":"250",
+        "partNumberValue":"123",
+        "descriptionValue":"addPLCTP"
+
+    },
+    "subContract":
+    {
+        "descriptionValue": "addSubcontract",
+        "subcontractorValue": "Pace Collaborative PC",
+        "costValue": 1500
+    },
+    "directJobExpense":
+    {
+        "description": "adddjeLicense",
+        "duration": 3,
+        "rate": 2000
+    },
+    "selectParts":
+    {
+        "partNumber": ["KIT03033USA","010720!"],
+        "vendor": ["Trane","Non-Trane"]
+    },
+    "standardItems":
+    {
+        "partNumber": ["X13651598010","ONYXX-MB311-1000"],
+        "vendor": ["Trane","Non-Trane"]
+    },
+    "toaster":
+    {
+        "tpToaster": "Trane Parts item added successfully",
+        "siToaster": "Standard items added successfully"
+    },
+    "uploadPSD": "../testdata/Standard - nsb warranty.psd"
+}

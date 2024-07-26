@@ -1,0 +1,47 @@
+{
+
+    "createOppy": {
+
+        "oppyName": "PLY_022_WSC_IR_002-",
+
+        "oppyNames": ["PLY_001_WSC_EQP_001-","PLY_002_WSC_EQP_002-","PLY_003_WSC_EQP_003-","PLY_004_WSC_EQP_004-",
+                    "PLY_005_WSC_ES_001-","PLY_006_WSC_ES_002-","PLY_007_WSC_ES_003-","PLY_008_WSC_ES_004-","PLY_009_WSC_ES_005-","PLY_010_WSC_ES_006-","PLY_011_WSC_ES_007-","PLY_012_WSC_ES_008-",
+                    "PLY_013_WSC_CS_001-","PLY_014_WSC_CS_002-","PLY_015_WSC_CS_003-","PLY_016_WSC_CS_004-","PLY_017_WSC_CS_005-","PLY_018_WSC_CS_006-","PLY_019_WSC_CS_007-","PLY_020_WSC_CS_008-",
+                    "PLY_021_WSC_IR_001-","PLY_022_WSC_IR_002-","PLY_023_WSC_IR_003-","PLY_024_WSC_IR_004-","PLY_025_WSC_IR_005-","PLY_026_WSC_IR_006-","PLY_027_WSC_IR_007-","PLY_028_WSC_IR_008-",
+                    "PLY_029_WSC_ES2_001-","PLY_030_WSC_CS2_001-","PLY_031_WSC_IR2_001-",
+                    "PLY_032_WSC_EQP_ASO_001-","PLY_033_WSC_EQP_ASO_002","PLY_034_WSC_EQP_ASO_003",
+                    "PLY_035_WSC_ES_ASO_001-","PLY_036_WSC_ES_ASO_002-","PLY_037_WSC_ES_ASO_003-","PLY_038_WSC_ES_ASO_004-","PLY_039_WSC_ES_ASO_005-","PLY_040_WSC_ES_ASO_006-","PLY_041_WSC_ES_ASO_007",
+                    "PLY_042_WSC_CS_ASO_001-","PLY_043_WSC_CS_ASO_002-","PLY_044_WSC_CS_ASO_003-","PLY_045_WSC_CS_ASO_004-","PLY_046_WSC_CS_ASO_005-","PLY_047_WSC_CS_ASO_006-","PLY_048_WSC_CS_ASO_007-",
+                    "PLY_049_WSC_IR_ASO_001-","PLY_050_WSC_IR_ASO_002-","PLY_051_WSC_IR_ASO_003-","PLY_052_WSC_IR_ASO_004-","PLY_053_WSC_IR_ASO_005-","PLY_054_WSC_IR_ASO_006-","PLY_055_WSC_IR_ASO_007-"],
+
+        "accountName":"Amazon Com Service Inc",
+
+        "stage":"Discovery & Qualify",
+
+        "bidDate":"11/06/2024",
+
+        "closeDate": "9/30/2026",
+
+        "worksightDB":"Charlotte-F1",
+
+        "salesRegion":"Southern Atlantic",
+
+        "salesOffice":"Charlotte-F1",
+
+        "revenueStreamType": "Controls & Contracting",
+
+        "revenueStream":"Large Turnkey",
+
+        "verticalMarket":"Agriculture - Indoor Agriculture",
+
+        "contactRole":"Amazon.Com",
+
+        "role":"Approver"
+
+    }
+
+   
+
+}
+
+ 

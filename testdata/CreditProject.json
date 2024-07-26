@@ -1,0 +1,71 @@
+
+{
+    "projectNumber": "F125960",
+    "purchasingDocument":{
+    "ofcSelector": "Charlotte",
+    "creditProjectNo":"J1",
+    "custPONum": "C7079E",
+    "creditTerms": "CREDIT JOB",
+    "freightTerms": "FA-PPD",
+    "jobContactName": "Allison, Bobby",
+    "projectTeamType": 1,
+    "taxable": "False",
+    "custPOAmt": "8,895.75",
+    "totalTax": "0",
+    "account": "201",
+    "accountSelect":"201 PROVIDENCE LLC [3567896][F1]",
+    "salesOffice": "Charlotte",
+    "jobContact": "Allison, Bobby",  
+    "locationOffice": "Charlotte",
+    "salesManager": "Hunsaker, William",
+    "prjctManager": "Hunsaker, William",
+    "editShipName": "SIFCO MECHANICAL INC",
+    "soldToChngAct1": "3800979"
+    },
+    "shipToAddr": 
+      {
+        "addrName": "Site",
+        "name": "Sifco Mechanical",
+        "addrLine1": "c/o Aflac",
+        "addrLine2": "400 Laurel Street",
+        "zipCode": "29201",
+        "includePO": "False",
+        "billOfLading": "Delivery M-TH, 8-3pm, 48hr notice required to Sam Goff 803-360-2532",
+        "internalShipping": "",
+        "delName": "Sam Goff",
+        "delPhone": "8033602532",
+        "altDelName": "",
+        "altDelPhone": "",
+        "email": "",
+        "altEmail": "",
+        "hrsBeforeDelivery": ""
+      },
+    
+    "purOption": "3",
+    "appOption": "9",
+    "buildOption": "20",
+    "bidOption": "1394",
+    "actOption": "3673",
+    "equipOption": "3034",
+    "projectType": "608",
+    "ctrlOption": "2294",
+    "verticalMarket": 4,
+    "jobOption": "3610",
+    "commSplits": [
+      {
+        "commSalesPerson": "A92-Angel Labrador",
+        "commPercent": "100"
+      },
+      {
+        "commSalesPerson": "A65-Brad Van Meter",
+        "commPercent": "45"
+      }
+    ],
+    "litDate": "02",
+    "litMonth": "06",
+    "litYear": "2021",
+    "projectMngr2":  "Allison,Bobby",
+    "projectMngr": "Hunsaker, William",
+    "salesMngr": "Hunsaker, William",
+    "shipStatus": "RLSD"
+  }

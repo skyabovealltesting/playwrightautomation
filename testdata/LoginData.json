@@ -1,0 +1,25 @@
+{
+    "login": {
+        "env": "https://tranetechnologies--fcuat.sandbox.my.salesforce.com/",
+        "url":"https://stagesalestools.trane.com/",
+       
+        "userName":"ctxstg13@tranetechnologies.com",
+        "passWord":"TTcs2402",
+        "userName17":"ctxstg17@tranetechnologies.com"
+    },
+    "dataBase": {
+        "username": "QA_WORKSIGHT_APP",
+        "password": "Ap41L_21",
+        "connectionstring": "ESTRNS/ESTRNS.irco.com"
+    },
+    "workSight":{
+        "userName":"ctxstg13@tranetechnologies.com",
+        "passWord":"TTcs2402"
+
+    },
+    "workSight20User":{
+        "userName":"ctxstg20@tranetechnologies.com",
+        "passWord":"TTcs2402"
+
+    }
+}

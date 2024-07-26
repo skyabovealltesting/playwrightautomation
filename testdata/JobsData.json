@@ -1,0 +1,21 @@
+{
+
+    "office":"Charlotte",
+    "oppyID":"AutoTestMT_0514202421473310",
+    "psdPath":"../testdata/Test 6 V2 - Supply and Install.psd",
+    "taxDocPath":"../testdata/Tax Document.docx",
+    "addTM":{
+        "path":"../testdata/Trane Material.psd",
+        "path2":"../testdata/Trane Material 2.psd"
+
+    },
+    "addNTM":{
+        "ntmDescriptionValue":"Chillers",
+        "providerValue":"AAF",
+        "costValue":"250",
+        "prodCode":"(1389) Service - Service Agreement",
+        "cost":"100",
+        "description":"TEST",
+        "provider":"Carel"
+    }
+}

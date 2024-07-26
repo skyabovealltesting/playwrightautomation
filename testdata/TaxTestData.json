@@ -1,0 +1,62 @@
+{
+    "projectNumber":"F125847",
+    "shipToAddressState":"CT",
+    "copyAddressDrpdown":"Ship To",
+    "wpLocationAddressState":"CT",
+    "attachType":"Purchase Document",
+    "taxDocPath":"../testdata/Tax Document.docx",
+    "submitterName": "Test Account",
+    "customerType": "Corporation/Organization",
+    "submitToasterMsg": "Submitted Tax Determination",
+
+    "updateShipToAddress":{
+      "laborValue":"0",
+      "shipToAddressCounty": "NEW HAVEN"
+    },
+    "updateSecondWp":{
+      "workPackageId":"2028373",
+      "wpName":"TextAutoTest",
+      "changeOrderType":"Customer Account change",
+      "wpclassification":"HVAC: Large Turnkey",
+      "wpAmount":"1133.33",
+      "suppliedEquipmentValue":"0",
+      "installedEquipmentvalue":"1133.33",
+      "laborValue":"0",
+      "shipToAddressCounty":"NEW HAVEN"
+  },
+   "updateTaxApproverSectionWp1":{
+      "taxDeterminationAction":"Completed",
+      "taxApprover":"CtxStg17 (CtxStg17)",
+      "taxDeterminationPath":"S",
+      "productCode":"0671",
+      "productCodeAmount":"4023.91"
+  },
+    "updateTaxApproverSectionWp2":{
+      "taxDeterminationAction":"Completed",
+      "taxApprover":"CtxStg17 (CtxStg17)",
+      "taxDeterminationPath":"Sales Tax",
+      "productCode1":"0670",
+      "productCodeAmount1":"300",
+      "productCode2":"0671",
+      "productCodeAmount2":"340",
+      "productCode3":"0672",
+      "productCodeAmount3":"493.33"
+
+  },
+  "addSov":{
+    "lineDescription1":"Test1",
+    "lineDescription2":"Test2",
+    "lineDescription3":"Test3",
+    "lineDescription4":"Test4",
+    "allocationPerc":"50",
+    "retentionPerc":"10",
+    "taxIdentifier":"0671 - Contracting Material - CT, KS, NJ",
+    "shiptTo":"1 Washington Park Ste 1600, Newark, NJ 07102"
+},
+"addInvoice":{
+  "entryType":["IN - Regular invoice","CR - Credit invoice","RI - Retention invoice","RC - Retention credit"],
+  "status":["Pending","Ready"],
+  "billAmount":"300"
+}
+  
+  }

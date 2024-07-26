@@ -1,0 +1,22 @@
+
+[ 
+  {
+    "workPackage": 1,
+    "location": "3024580",
+    "siteNameAddress":"Amazon GSF WAK1 [5900 Old Seward Highway WAK1]",
+    "workPackageName": "AutoTestWP1_", 
+    "WpProjectMngr":  "APPLE,WYATT [IRCRHY]",
+    "jobContactName": "Allison, Bobby",
+    "partCenter":"Charlotte Parts Supply"
+  },
+  {
+    "workPackage": 2,
+    "location": "582726",
+    "siteNameAddress":"Amazon ATS BDL5 [29 Research Pkwy BDL5]",
+    "workPackageName": "AutoTestWP2_", 
+    "WpProjectMngr":  "APPLE,WYATT [IRCRHY]",
+    "jobContactName": "Allison, Bobby",
+    "partCenter":"Charlotte Parts Supply"
+  
+  }
+]

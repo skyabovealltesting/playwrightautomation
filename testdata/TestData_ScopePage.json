@@ -1,0 +1,203 @@
+{
+    "createContainer":
+    {
+        "options": [
+            "Turnkey",
+            "System",
+            "ECM"
+        ],
+        "turnKeyContainerCategories": [
+            "Water Treatment",
+            "Cooler/Freezer Controls"
+        ],
+        "quantity": "2",
+        "successToaster": "Contracting containers added successfully"
+    },
+    "configureContainer":
+    {
+        "container": "Project Level Cost Items",
+        "costItemType":[
+            "Labor",
+            "Trane Material",
+            "Non-Trane Material",
+            "Trane Parts",
+            "Subcontract",
+            "Direct Job Expense"
+        ],
+        "labor":
+        {
+            "description": ["addPLCLabor", "addOOAPLCLabor"],
+            "laborType": "CTR Energy Engineer/M&V Engineer Analysis",
+            "hours": "1",
+            "noOfTrips": "8",
+            "notes": "This is to check whether the notes section is working. Done by: Team Automation.",
+            "toasterMessage": "Labor item added successfully"
+        },
+        "nonTraneMaterial":
+        {
+            "description": "addNTMInstall",
+            "vendor": "Trane BASD",
+            "partNumber": "6508",
+            "supplyInstall": "Install",
+            "installType": "2- wire + 24V Power",
+            "materialMultiplier": "2",
+            "quantity": "1",
+            "amount": "100",
+            "toasterMessage": "Non-Trane Material item added successfully",
+            "deleteToaster": "Cost container updated successfully"
+        },
+        "traneMaterial":
+        {
+            "selectTraneMaterial": "Trane Material",
+            "toasterMessage": "Trane Material item added successfully"
+        },
+        "traneParts":
+        {
+            "description": "addTPSupply",
+            "partNumber": "2520",
+            "supplyInstall": "Supply",
+            "installType": "Wireless",
+            "materialMultiplier": "4",
+            "quantity": "1",
+            "amount": "100",
+            "toasterMessage": "Trane Parts item added successfully"
+        },
+        "subContract":
+        {
+            "description": ["addSubContract", "editSubContract"],
+            "cost": ["150", "9124"],
+            "type": ["Engineering", "Electric: High Voltage"],
+            "subContracter": ["Ally Engineering","Bell Engineering", "Verizon Cellular"],
+            "toasterMessage": "Subcontractor item added successfully",
+            "editToaster": "Subcontractor item updated successfully"
+        },
+        "directJobExpense":
+        {
+            "toasterMessage": "Direct Job Expense item added successfully",
+            "none":
+            {
+                "feeType": "<None>",
+                "description": "addDJENone",
+                "quantity": "5",
+                "materialMultiplier": "3",
+                "duration": "8",
+                "type": "Hours",
+                "rate": "777",
+                "documentNotes": "This Cost item is being tested by protractor automation team.",
+                "fileUploadToaster": "File uploaded successfully"
+            },
+            "bond":
+            {
+                "feeType": "Bond",
+                "description": "addDJEBond",
+                "rate": "841"
+            },
+            "contractingServiceFee":
+            {
+                "feeType": "Contracting/Service Fee",
+                "description": "addDJECSF",
+                "rate": "692"
+            },
+            "coop":
+            {
+                "feeType": "COOP",
+                "rate": "327",
+                "productCode": "Kinetic COOP Purchasing"
+            },
+            "fss":
+            {
+                "feeType": "Federal Supply Schedule",
+                "description": "addDJEFSS",
+                "quantity": "1",
+                "materialMultiplier": "6",
+                "duration": "1",
+                "type": "Days",
+                "rate": "418"
+            },
+            "freight":
+            {
+                "feeType": "Freight",
+                "description": "addDJEFreight",
+                "rate": "828"
+            },
+            "license":
+            {
+                "feeType": "License",
+                "description": "addDJELicense",
+                "quantity": "1",
+                "materialMultiplier": "1",
+                "duration": "4",
+                "type": "Weeks",
+                "rate": "100"
+            },
+            "meer":
+            {
+                "feeType": "MEER",
+                "description": "addDJEMEER",
+                "quantity": "5",
+                "materialMultiplier": "1",
+                "duration": "5",
+                "type": "Months",
+                "rate": "789"
+            },
+            "permit":
+            {
+                "feeType": "Permit",
+                "description": "addDJEPermit",
+                "quantity": "9",
+                "materialMultiplier": "1",
+                "duration": "8",
+                "type": "Years",
+                "rate": "123"
+            },
+            "rental":
+            {
+                "feeType": "Rental",
+                "description": "addDJERental",
+                "quantity": "7",
+                "materialMultiplier": "2",
+                "duration": "4",
+                "type": "Months",
+                "rate": "999"
+            }
+        }
+    },
+    "addFolder":
+    {
+        "description": "testFolder2",
+        "toasterMessage": "Folders added sucessfully",
+        "containerToaster": "Contracting containers added successfully",
+        "labor":
+        {
+            "description": "addTKLabor",
+            "laborType": "CTR Controls Project Specialist Managing",
+            "hours": "9",
+            "notes": "This is to check whether the notes section of ci inside a folder is working. Done by: Team Automation.",
+            "toasterMessage": "Labor item added successfully"
+        },
+        "none":
+        {
+            "feeType": "<None>",
+            "description": "addDJETKNone",
+            "quantity": "3",
+            "materialMultiplier": "1",
+            "duration": "6",
+            "type": "Days",
+            "rate": "129",
+            "documentNotes": "This Folder Cost item is being tested by protractor automation team.",
+            "fileUploadToaster": "File uploaded successfully",
+            "toasterMessage": "Direct Job Expense item added successfully"
+        },
+        "license":
+        {
+            "feeType": "License",
+            "description": "addDJETKLicense",
+            "quantity": "2",
+            "materialMultiplier": "4",
+            "duration": "8",
+            "type": "Months",
+            "rate": "899",
+            "toasterMessage": "Direct Job Expense item added successfully"
+        }
+    }
+}
